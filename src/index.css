@@ -1,0 +1,21 @@
+.card{
+    width: 40%;
+    height: 40vh;
+    background-color: steelblue;
+    margin: 5rem auto;
+}
+.showBtn{
+    margin: 10px;
+}
+h1{
+    width: 80%;
+    background-color:rgba(255, 255, 255, 0.605);
+    text-align: center;
+    margin: 10px auto;
+}
+h3{
+    width: 80%;
+    background-color:rgba(255, 255, 255, 0.605);
+    text-align: center;
+    margin: 10px auto;
+}
